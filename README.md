@@ -1,18 +1,18 @@
-## Hi there 👋
+## Hi there
 # I'm Crystal Coral Dsouza
 
 I'm a Full Stack Web Developer focused on building scalable, user-friendly applications. I'm currently working on personal projects to strengthen my coding skills.
 
-- 💻 Currently working on: Building my portfolio while completeibng my Masters in Human-Computer Inetraction
-- 🌱 Learning: Flutter
-- 📫 Reach me at: crystal13dsouza@gmail.com
-- 🧠 Ask me about: JavaScript, React, Angular, Node, Python, APIs, LLMs
-- 🔭 Goals for 2025: 
+- Currently working on: Building my portfolio while completeing my Masters in Human-Computer Inetraction
+- Learning: Flutter
+- Reach me at: crystal13dsouza@gmail.com
+- Ask me about: JavaScript, React, Angular, Node, Python, APIs, LLMs
+- Goals for 2025: 
   - Launch Portfolio Website
   - Contribute to open-source
-  - Land a role in an awesome workplace that is remote so I can travel with my boyfriend
+  - Land a role in an awesome workplace that is remote so I can travel
 
-## 🚀 Featured Projects
+## Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Personal Website](link) | One-liner about what it does | React, Node |
