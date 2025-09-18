@@ -3,7 +3,7 @@
 
 I'm a Full Stack Web Developer focused on building scalable, user-friendly applications. I'm currently working on personal projects to strengthen my coding skills.
 
-- Currently working on: Building my portfolio while completeing my Masters in Human-Computer Inetraction
+- Currently working on: Building my portfolio while completing my Masters in Human-Computer Inetraction
 - Learning: Flutter
 - Reach me at: crystal13dsouza@gmail.com
 - Ask me about: JavaScript, React, Angular, Node, Python, APIs, LLMs
