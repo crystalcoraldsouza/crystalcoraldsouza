@@ -15,10 +15,7 @@ I'm a Full Stack Web Developer focused on building scalable, user-friendly appli
 ## Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Personal Website](link) | One-liner about what it does | React, Node |
-| [Javascript playground](link) | One-liner about what it does | React, Node |
-| [DSA playground](link) | Cool side project or clone | Python, Flask |
-| [ML playground](link) | Your AI/ML playground | Python, OpenAI |
+| [Javascript playground](https://github.com/crystalcoraldsouza/javascript-playground) | Important JS concept notes and exercises | JavaScript |
 
 > Check out more on my [GitHub Repos](https://github.com/crystalcoraldsouza?tab=repositories)
 
